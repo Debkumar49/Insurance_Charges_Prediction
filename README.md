@@ -1,2 +1,2 @@
-# Insurance_Charges_Prediction
+# Insurance Charges Prediction
 Predicting Charges of Insurance based on Inputs
